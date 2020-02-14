@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body,h3,h4,html,p{padding:0;margin:0}.App{display:grid;grid-template-columns:repeat(3,350px);grid-gap:10px;width:960px;margin:0 auto}.post{padding:20px;width:350px;background-color:#f6b0b0;border-radius:15px}.starts{text-align:center}.comment{border-bottom:2px solid #000;margin-bottom:10px}.comments{font-weight:700;font-size:20px;margin-bottom:10px}.description{margin-bottom:15px}.user__span{font-size:15px;color:#fff}
+/*# sourceMappingURL=main.66c64d19.chunk.css.map */
